@@ -1,0 +1,15 @@
+C:\Users\labc202\Downloads\JULIOCESAR SESION3\MpeSes3\MpeSes3\bin\Debug\net7.0\MpeSes3.exe
+C:\Users\labc202\Downloads\JULIOCESAR SESION3\MpeSes3\MpeSes3\bin\Debug\net7.0\MpeSes3.deps.json
+C:\Users\labc202\Downloads\JULIOCESAR SESION3\MpeSes3\MpeSes3\bin\Debug\net7.0\MpeSes3.runtimeconfig.json
+C:\Users\labc202\Downloads\JULIOCESAR SESION3\MpeSes3\MpeSes3\bin\Debug\net7.0\MpeSes3.dll
+C:\Users\labc202\Downloads\JULIOCESAR SESION3\MpeSes3\MpeSes3\bin\Debug\net7.0\MpeSes3.pdb
+C:\Users\labc202\Downloads\JULIOCESAR SESION3\MpeSes3\MpeSes3\obj\Debug\net7.0\MpeSes3.csproj.AssemblyReference.cache
+C:\Users\labc202\Downloads\JULIOCESAR SESION3\MpeSes3\MpeSes3\obj\Debug\net7.0\MpeSes3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labc202\Downloads\JULIOCESAR SESION3\MpeSes3\MpeSes3\obj\Debug\net7.0\MpeSes3.AssemblyInfoInputs.cache
+C:\Users\labc202\Downloads\JULIOCESAR SESION3\MpeSes3\MpeSes3\obj\Debug\net7.0\MpeSes3.AssemblyInfo.cs
+C:\Users\labc202\Downloads\JULIOCESAR SESION3\MpeSes3\MpeSes3\obj\Debug\net7.0\MpeSes3.csproj.CoreCompileInputs.cache
+C:\Users\labc202\Downloads\JULIOCESAR SESION3\MpeSes3\MpeSes3\obj\Debug\net7.0\MpeSes3.dll
+C:\Users\labc202\Downloads\JULIOCESAR SESION3\MpeSes3\MpeSes3\obj\Debug\net7.0\refint\MpeSes3.dll
+C:\Users\labc202\Downloads\JULIOCESAR SESION3\MpeSes3\MpeSes3\obj\Debug\net7.0\MpeSes3.pdb
+C:\Users\labc202\Downloads\JULIOCESAR SESION3\MpeSes3\MpeSes3\obj\Debug\net7.0\MpeSes3.genruntimeconfig.cache
+C:\Users\labc202\Downloads\JULIOCESAR SESION3\MpeSes3\MpeSes3\obj\Debug\net7.0\ref\MpeSes3.dll
